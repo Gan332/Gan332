@@ -57,6 +57,55 @@
 
 ---
 
+### 🎌 Anime
+
+<div align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="600" alt="city rain"/>
+
+  <br><br>
+
+  <sub>currently watching</sub><br>
+  <img src="https://img.shields.io/badge/-Frieren-6750A4?style=flat-square&logoColor=white" alt="Frieren"/>
+  <img src="https://img.shields.io/badge/-Dandadan-F26B8A?style=flat-square" alt="Dandadan"/>
+  <img src="https://img.shields.io/badge/-Made%20in%20Abyss-625B71?style=flat-square" alt="Made in Abyss"/>
+
+  <br><br>
+
+  <img src="https://img.shields.io/badge/MAL-Gan332-2E51A2?style=flat-square&logo=myanimelist&logoColor=white" alt="MAL"/>
+
+  <br><br>
+
+  <table>
+    <tr>
+      <td align="center">
+        <b>completed</b><br>
+        <sub>42</sub>
+      </td>
+      <td align="center">
+        <b>watching</b><br>
+        <sub>3</sub>
+      </td>
+      <td align="center">
+        <b>plan to watch</b><br>
+        <sub>12</sub>
+      </td>
+    </tr>
+  </table>
+
+  <br>
+
+  > *"The world isn't perfect. But if you keep moving forward, you might find something worth holding on to."*<br>
+  > <sub>— Violet Evergarden</sub>
+
+  <br>
+
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="80" alt="walking"/>
+</div>
+
+<br>
+
+---
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Gan332&theme=onedark&no-frame=true&no-bg=true&column=5&margin-w=8&margin-h=8">
