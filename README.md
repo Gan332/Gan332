@@ -9,7 +9,7 @@
 <div align="center">
   <img src="https://via.placeholder.com/120/6750A4/FFFFFF?text=Y" style="border-radius:60px;" alt="avatar"/>
 
-  # Your Name
+  # Gan332
 
   *builder · thinker · creator*
 
