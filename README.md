@@ -1,187 +1,159 @@
-<div align="center">
+<!-- ===== GitHub Profile README ===== -->
 
-[![status](https://img.shields.io/badge/status-building%20in%20public-D0BCFF?style=flat-square&labelColor=1C1B1F&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNEMEJDREYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMTIgMUgzYTEgMSAwIDAgMC0xIDF2MTRhMSAxIDAgMCAwIDEgMWg5TTE2IDV2MTQiLz48cGF0aCBkPSJNMTkgMTdsLTMgMy0zLTMiLz48L3N2Zz4=)](https://github.com/Gan332)
-[![focus](https://img.shields.io/badge/focus-creativity-D0BCFF?style=flat-square&labelColor=1C1B1F&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNEMEJDREYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMTIgMjBjLTQuNDE4IDAtOC0zLjU4Mi04LThzMy41ODItOCA4LTggOCAzLjU4MiA4IDgtMy41ODIgOC04IDh6Ii8+PHBhdGggZD0iTTE1IDE2YTIgMiAwIDAgMC0yLTJoLTJhMiAyIDAgMCAwLTIgMiIvPjxsaW5lIHgxPSI5IiB5MT0iMTAiIHgyPSI5LjAxIiB5Mj0iMTAiLz48bGluZSB4MT0iMTUiIHkxPSIxMCIgeDI9IjE1LjAxIiB5Mj0iMTAiLz48L3N2Zz4=)](https://github.com/Gan332)
-[![location](https://img.shields.io/badge/location-earth-D0BCFF?style=flat-square&labelColor=1C1B1F&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNEMEJDREYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIvPjxsaW5lIHgxPSIyIiB5MT0iMTIiIHgyPSIyMiIgeTI9IjEyIi8+PHBhdGggZD0iTTEyIDJhMTUuMyAxNS4zIDAgMCAxIDQgMTAgMTUuMyAxNS4zIDAgMCAxLTQgMTAgMTUuMyAxNS4zIDAgMCAxLTQtMTAgMTUuMyAxNS4zIDAgMCAxIDQtMTB6Ii8+PC9zdmc+)](https://github.com/Gan332)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:673AB7,50:3F51B5,100:2196F3&height=220&section=header&text=Hi%20there%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub&descSize=16&descColor=ffffff&descAlignY=55" />
 
-<br>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&random=false&width=600&lines=Hi+%E6%88%91%E6%98%AF+Gan332;Full-Stack+%26+Cross-Platform+Dev;Dart+%7C+Rust+%7C+Vue+%7C+Kotlin;Loves+Open+Source+%F0%9F%92%9C" alt="Typing SVG" />
+  </a>
+</p>
 
-<a href="https://github.com/Gan332">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=28&duration=3500&pause=500&color=D0BCFF&center=true&vCenter=true&repeat=false&random=false&width=600&height=60&lines=Gan332">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=28&duration=3500&pause=500&color=6750A4&center=true&vCenter=true&repeat=false&random=false&width=600&height=60&lines=Gan332" alt="name"/>
-  </picture>
-</a>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=16&duration=4000&pause=1000&color=938F99&center=true&vCenter=true&random=false&width=600&height=30&lines=builder;thinker;creator;dreamer">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=16&duration=4000&pause=1000&color=79747E&center=true&vCenter=true&random=false&width=600&height=30&lines=builder;thinker;creator;dreamer" alt="tagline"/>
-</picture>
-
-</div>
-
-<br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Gan332&label=Profile%20Views&color=2196F3&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Gan332?label=Followers&style=for-the-badge&color=2196F3&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Gan332?label=Total%20Stars&style=for-the-badge&color=FF9800&logo=apachespark" alt="Stars" />
+  <img src="https://img.shields.io/badge/public%20repos-24-2196F3?style=for-the-badge&logo=github" alt="Repos" />
+</p>
 
 ---
 
-### 📊 Stats
+## 🧑‍💻 About Me
 
-<div align="center">
+```dart
+class Developer extends Human {
+  final String name = "Gan332";
+  final String role = "Full-Stack & Cross-Platform Developer";
+  final List<String> stack = ["Dart/Flutter", "Rust", "Vue", "Kotlin", "SwiftUI", "C#"];
+  final List<String> interests = ["背单词 App", "周易六爻", "桌面工具"];
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Gan332&show_icons=true&hide_border=true&bg_color=1C1B1F&text_color=CAC4D0&icon_color=D0BCFF&title_color=D0BCFF&include_all_commits=true&count_private=true&card_width=380&border_radius=16">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gan332&show_icons=true&hide_border=true&bg_color=FFFBFE&text_color=49454F&icon_color=6750A4&title_color=6750A4&include_all_commits=true&count_private=true&card_width=380&border_radius=16" alt="GitHub Stats">
-</picture>
-&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Gan332&layout=compact&hide_border=true&bg_color=1C1B1F&text_color=CAC4D0&title_color=D0BCFF&card_width=380&border_radius=16">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gan332&layout=compact&hide_border=true&bg_color=FFFBFE&text_color=49454F&title_color=6750A4&card_width=380&border_radius=16" alt="Top Languages">
-</picture>
+  void sayHi() => print("Thanks for visiting! Let's build something great 🚀");
+}
+```
 
-<br><br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Gan332&hide_border=true&background=1C1B1F&stroke=938F99&ring=D0BCFF&fire=D0BCFF&currStreakNum=E6E1E5&sideNums=E6E1E5&currStreakLabel=D0BCFF&sideLabels=D0BCFF&dates=938F99&border_radius=16">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gan332&hide_border=true&background=FFFBFE&stroke=CAC4D0&ring=6750A4&fire=6750A4&currStreakNum=1C1B1F&sideNums=1C1B1F&currStreakLabel=6750A4&sideLabels=6750A4&dates=CAC4D0&border_radius=16" alt="Streak">
-</picture>
-
-</div>
-
-<br>
+- 🔭 我正在开发 **背单词应用** 与 **六爻排盘工具**
+- 🌱 目前在学习 **Rust** 与 **跨平台开发**
+- 💬 问我关于 **Dart、Rust、Vue、Kotlin、SwiftUI** 的事
+- ⚡ Fun fact: 一个仓库用一种新语言,主打一个全栈
+- 📫 如何联系我:见页面底部 👇
 
 ---
 
-### 🧰 Stack
+## 🛠️ Tech Stack
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,go,rust,postgres,neovim,figma&theme=dark&perline=10">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,go,rust,postgres,neovim,figma&theme=light&perline=10" alt="Skills">
-</picture>
-
-</div>
-
-<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/SwiftUI-0DB5FF?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
 
 ---
 
-### 📌 Featured
+## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Gan332&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gan332&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=320" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Gan332&theme=tokyonight&hide_border=true&ring=2196F3&fire=FF9800&currLabel=2196F3" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gan332&theme=tokyo-night&hide_border=true&area=true&color=2196F3&line=2196F3&point=FF9800" alt="Contribution Graph" />
+</p>
+
+---
+
+## 🏆 Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Gan332&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
+</p>
+
+---
+
+## 🚀 Featured Projects
 
 <table>
   <tr>
-    <td align="center" width="400">
-      <div>
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Gan332&repo=Gan332&hide_border=true&bg_color=1C1B1F&text_color=CAC4D0&icon_color=D0BCFF&title_color=D0BCFF&border_radius=16">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gan332&repo=Gan332&hide_border=true&bg_color=FFFBFE&text_color=49454F&icon_color=6750A4&title_color=6750A4&border_radius=16" alt="Gan332" width="340">
-        </picture>
-      </div>
+    <td width="50%" valign="top">
+      <h3 align="center">📱 VocabApp(背单词)</h3>
+      <p align="center">
+        <a href="https://github.com/Gan332/VocabApp">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gan332&repo=VocabApp&theme=tokyonight&hide_border=true" alt="VocabApp" />
+        </a>
+      </p>
+      <p align="center">背单词 Android 原生应用 — Kotlin + Jetpack Compose + Room。</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">八卦🔮 liuyao-app</h3>
+      <p align="center">
+        <a href="https://github.com/Gan332/liuyao-app">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gan332&repo=liuyao-app&theme=tokyonight&hide_border=true" alt="liuyao-app" />
+        </a>
+      </p>
+      <p align="center">周易六爻排盘应用,网页版交互工具。</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🦀 vocab-ann</h3>
+      <p align="center">
+        <a href="https://github.com/Gan332/vocab-ann">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gan332&repo=vocab-ann&theme=tokyonight&hide_border=true" alt="vocab-ann" />
+        </a>
+      </p>
+      <p align="center">用 Rust 实现的词汇学习/标注工具。</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🐦 PiliPlus-SwiftUI</h3>
+      <p align="center">
+        <a href="https://github.com/Gan332/PiliPlus-SwiftUI">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gan332&repo=PiliPlus-SwiftUI&theme=tokyonight&hide_border=true" alt="PiliPlus-SwiftUI" />
+        </a>
+      </p>
+      <p align="center">基于 Dart/Flutter 的跨平台客户端探索。</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+      </p>
     </td>
   </tr>
 </table>
 
-</div>
+---
 
-<br>
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Gan332"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
 ---
 
-### 🎌 Anime
+## 🐍 Watch my contribution graph turn into a snake
 
-<div align="center">
-
-<br>
-
-<!-- anime banner -->
-<a href="https://myanimelist.net/profile/Gan332">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fmyanimelist.net%2Fprofile%2FGan332&query=%24.anime_stats&label=Anime&labelColor=1C1B1F&color=D0BCFF&style=flat-square">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fmyanimelist.net%2Fprofile%2FGan332&query=%24.anime_stats&label=Anime&labelColor=FFFBFE&color=6750A4&style=flat-square" alt="MAL">
-  </picture>
-</a>
-
-<br><br>
-
-<!-- currently watching cards -->
-<table>
-  <tr>
-    <td width="200" align="center">
-      <img src="https://cdn.myanimelist.net/images/anime/1015/138006.jpg" width="100" style="border-radius:12px;" alt="Frieren"/><br>
-      <sub><b>Frieren</b></sub><br>
-      <sub>⭐ 9.0</sub>
-    </td>
-    <td width="200" align="center">
-      <img src="https://cdn.myanimelist.net/images/anime/1986/138750.jpg" width="100" style="border-radius:12px;" alt="Dandadan"/><br>
-      <sub><b>Dandadan</b></sub><br>
-      <sub>⭐ 8.5</sub>
-    </td>
-    <td width="200" align="center">
-      <img src="https://cdn.myanimelist.net/images/anime/1326/143151.jpg" width="100" style="border-radius:12px;" alt="Made in Abyss"/><br>
-      <sub><b>Made in Abyss</b></sub><br>
-      <sub>⭐ 8.7</sub>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<!-- stats -->
-<table>
-  <tr>
-    <td align="center" width="100"><sub><b>📚 Total</b></sub></td>
-    <td align="center" width="100"><sub><b>📖 Watching</b></sub></td>
-    <td align="center" width="100"><sub><b>✅ Completed</b></sub></td>
-    <td align="center" width="100"><sub><b>📋 Planned</b></sub></td>
-  </tr>
-  <tr>
-    <td align="center"><sup><b>57</b></sup></td>
-    <td align="center"><sup><b>3</b></sup></td>
-    <td align="center"><sup><b>42</b></sup></td>
-    <td align="center"><sup><b>12</b></sup></td>
-  </tr>
-</table>
-
-<br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Gan332/Gan332/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
 ---
 
-### 💬 Quote
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Quote" width="600">
-</picture>
-
-</div>
-
-<br>
-
----
-
-### 🏆 Achievements
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Gan332&theme=onedark&no-frame=true&no-bg=true&column=6&margin-w=10&margin-h=10">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gan332&theme=flat&no-frame=true&no-bg=true&column=6&margin-w=10&margin-h=10" alt="Trophy" width="750">
-</picture>
-
-</div>
-
-<br>
-
----
-
-<!-- bottom decoration -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=100&section=footer&reversal=false&text=Gan332&fontColor=D0BCFF&fontSize=20">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=100&section=footer&reversal=false&text=Gan332&fontColor=FFFFFF&fontSize=20" alt="footer" width="100%"/>
-  </picture>
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:673AB7,50:3F51B5,100:2196F3&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=60" />
